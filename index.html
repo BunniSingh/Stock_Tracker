@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock|Tracker</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <header>
+        <h1>Stock|Tracker</h1>
+    </header>
+    <main>
+        <div class="query-section">
+            <div class="dropdown">
+                <select name="" id="topStockList">
+                    <!-- Fetch top stock list dynamically -->
+                </select>
+                <button id="getStock" class="dropdown-btn">Get</button>
+            </div>
+            <form id="searchForm">
+                <input type="text" id="searchInput" placeholder="Enter a stock symbol">
+                <button id="searchBtn" type="submit">Search</button>
+            </form>
+        </div>
+        <ul id="stockList"></ul>
+        
+        <div id="stockDetails"></div>
+
+        <div class="graph-section">
+            <h2>Stock Price Graph</h2>
+            <canvas id="stockChart"></canvas>
+        </div>
+
+    </main>
+    
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="./script.js" type="module"></script>
+</body>
+</html>

@@ -1,9 +1,10 @@
-import data from './static/data.js';
-console.log(data);
+// import data from './static/data.js';
 let dropdown = document.getElementById('topStockList');
-let searchInput = document.getElementById('searchInput');
 let getStock = document.getElementById('getStock');
+let searchInput = document.getElementById('searchInput');
 let searchBtn = document.getElementById('searchBtn');
+let stockDetails = document.getElementById('stockDetails');
+let stockTableBody = document.getElementById('stockTableBody');
 
 const ctx = document.getElementById('stockChart').getContext('2d');
 let stockChart;
@@ -26,6 +27,36 @@ function populateDropdown(){
     })
 }
 
+
+function showStockDetailsOnUi(stockSymbol, stockData){
+    const lastDate = Object.keys(stockData)[0];
+    const latestData = stockData[lastDate];
+    const price = latestData['4. close'];
+    const volume = latestData['5. volume'];
+    const change = (latestData['4. close'] - stockData[Object.keys(stockData)[1]]['4. close']).toFixed(2);
+    stockDetails.innerHTML = `
+        <h2>${stockSymbol}</h2>
+        <p>Price: $${price}</p>
+        <p>Change: ${change}</p>
+        <p>Volume: ${volume}</p>
+        <p>Date: ${lastDate}</p>
+        `
+
+    addDetailsIntoTable(stockSymbol, price , change , volume, lastDate);
+}
+
+
+function addDetailsIntoTable(stockSymbol, price, change, volume, lastDate) {
+    const row = document.createElement('tr');
+    row.innerHTML += `
+        <td>${stockSymbol}</td>
+        <td>${price}</td>
+        <td>${change}</td>
+        <td>${volume}</td>
+        <td>${lastDate}</td>
+    `;
+    stockTableBody.appendChild(row);   
+}
 
 
 // show stock with graph 
@@ -63,17 +94,41 @@ function displayStockGraph(stockData) {
 }
 
 
-getStock.addEventListener('click', function(){
+
+// Get Stock function via dropdown
+getStock.addEventListener('click', async function(){
     const stockSymbol = dropdown.value;
-    getStockData(stockSymbol).then(data => {
-        const stockData = data['Time Series (Daily)'];
-        displayStockGraph(stockData);
-    })
+    if(stockSymbol){
+        const stockData =  await getStockData(stockSymbol);
+        console.log(stockData);
+        if(stockData){
+            displayStockGraph(stockData);
+            showStockDetailsOnUi(stockSymbol, stockData);
+        }else{
+          alert('No stock data found for this symbol');
+        }
+      }else{
+          alert('Please enter a stock symbol');
+      }
 })
 
 
-
-
-
+// Search Stock function 
+searchBtn.addEventListener('click', async function(e) {
+    e.preventDefault();
+    const searchValue = searchInput.value.toUpperCase();
+    if(searchValue){
+      const stockData =  await getStockData(searchValue);
+      if(stockData){
+          displayStockGraph(stockData);
+          showStockDetailsOnUi(searchValue, stockData);
+      }else{
+        alert('No stock data found for this symbol');
+      }
+    }else{
+        alert('Please enter a stock symbol');
+    }
+ 
+})
 
 populateDropdown();

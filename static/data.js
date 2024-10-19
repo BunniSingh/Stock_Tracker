@@ -6,7 +6,7 @@ export const data = [
         "last": 235.49,
         "close": 232.15,
         "volume": 673520.0,
-        "date": "2024-10-18T19:00:00+0000",
+        "date": "2024-10-18",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -15,9 +15,9 @@ export const data = [
         "high": 236.92,
         "low": 234.01,
         "last": 235.63,
-        "close": 232.15,
+        "close": 282.15,
         "volume": 616106.0,
-        "date": "2024-10-18T18:00:00+0000",
+        "date": "2024-10-18",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -28,7 +28,7 @@ export const data = [
         "last": null,
         "close": null,
         "volume": 2382.0,
-        "date": "2024-10-18T17:00:00+0000",
+        "date": "2024-10-18",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -39,7 +39,7 @@ export const data = [
         "last": 235.07,
         "close": 232.15,
         "volume": 408285.0,
-        "date": "2024-10-18T16:00:00+0000",
+        "date": "2024-10-18",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -50,7 +50,7 @@ export const data = [
         "last": 234.83,
         "close": 232.15,
         "volume": 339881.0,
-        "date": "2024-10-18T15:00:00+0000",
+        "date": "2024-10-18",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -61,7 +61,7 @@ export const data = [
         "last": 235.69,
         "close": 232.15,
         "volume": 216131.0,
-        "date": "2024-10-18T14:00:00+0000",
+        "date": "2024-10-18",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -72,7 +72,7 @@ export const data = [
         "last": 231.94,
         "close": 231.78,
         "volume": 396368.0,
-        "date": "2024-10-17T19:00:00+0000",
+        "date": "2024-10-17",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -83,7 +83,7 @@ export const data = [
         "last": 232.43,
         "close": 231.78,
         "volume": 349900.0,
-        "date": "2024-10-17T18:00:00+0000",
+        "date": "2024-10-17",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -94,7 +94,7 @@ export const data = [
         "last": 232.16,
         "close": 231.78,
         "volume": 284418.0,
-        "date": "2024-10-17T17:00:00+0000",
+        "date": "2024-10-17",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -105,7 +105,7 @@ export const data = [
         "last": 232.57,
         "close": 231.78,
         "volume": 242699.0,
-        "date": "2024-10-17T16:00:00+0000",
+        "date": "2024-10-17",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -116,7 +116,7 @@ export const data = [
         "last": 231.51,
         "close": 231.78,
         "volume": 193600.0,
-        "date": "2024-10-17T15:00:00+0000",
+        "date": "2024-10-17",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -127,7 +127,7 @@ export const data = [
         "last": 231.765,
         "close": 231.78,
         "volume": 82797.0,
-        "date": "2024-10-17T14:00:00+0000",
+        "date": "2024-10-17",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -138,7 +138,7 @@ export const data = [
         "last": 231.78,
         "close": 233.85,
         "volume": 34082240.0,
-        "date": "2024-10-17T00:00:00+0000",
+        "date": "2024-10-17",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -149,7 +149,7 @@ export const data = [
         "last": 231.27,
         "close": 233.85,
         "volume": 571739.0,
-        "date": "2024-10-16T19:00:00+0000",
+        "date": "2024-10-16",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -160,7 +160,7 @@ export const data = [
         "last": 230.82,
         "close": 233.85,
         "volume": 526038.0,
-        "date": "2024-10-16T18:00:00+0000",
+        "date": "2024-10-16",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -171,7 +171,7 @@ export const data = [
         "last": 231.02,
         "close": 233.85,
         "volume": 477955.0,
-        "date": "2024-10-16T17:00:00+0000",
+        "date": "2024-10-16",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -182,7 +182,7 @@ export const data = [
         "last": 230.195,
         "close": 233.85,
         "volume": 400422.0,
-        "date": "2024-10-16T16:00:00+0000",
+        "date": "2024-10-16",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -193,7 +193,7 @@ export const data = [
         "last": 230.435,
         "close": 233.85,
         "volume": 290077.0,
-        "date": "2024-10-16T15:00:00+0000",
+        "date": "2024-10-16",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -204,7 +204,7 @@ export const data = [
         "last": 230.05,
         "close": 233.85,
         "volume": 139476.0,
-        "date": "2024-10-16T14:00:00+0000",
+        "date": "2024-10-16",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -215,7 +215,7 @@ export const data = [
         "last": 233.85,
         "close": 231.3,
         "volume": 64751367.0,
-        "date": "2024-10-16T00:00:00+0000",
+        "date": "2024-10-16",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -226,7 +226,7 @@ export const data = [
         "last": 233.8,
         "close": 231.3,
         "volume": 854205.0,
-        "date": "2024-10-15T19:00:00+0000",
+        "date": "2024-10-15",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -237,7 +237,7 @@ export const data = [
         "last": 233.79,
         "close": 231.3,
         "volume": 796131.0,
-        "date": "2024-10-15T18:00:00+0000",
+        "date": "2024-10-15",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -248,7 +248,7 @@ export const data = [
         "last": 234.58,
         "close": 231.3,
         "volume": 711254.0,
-        "date": "2024-10-15T17:00:00+0000",
+        "date": "2024-10-15",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -259,7 +259,7 @@ export const data = [
         "last": 235.59,
         "close": 231.3,
         "volume": 590021.0,
-        "date": "2024-10-15T16:00:00+0000",
+        "date": "2024-10-15",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -270,7 +270,7 @@ export const data = [
         "last": 235.325,
         "close": 231.3,
         "volume": 454464.0,
-        "date": "2024-10-15T15:00:00+0000",
+        "date": "2024-10-15",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -281,7 +281,7 @@ export const data = [
         "last": 236.44,
         "close": 231.3,
         "volume": 209374.0,
-        "date": "2024-10-15T14:00:00+0000",
+        "date": "2024-10-15",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -292,7 +292,7 @@ export const data = [
         "last": 231.3,
         "close": 227.55,
         "volume": 39882085.0,
-        "date": "2024-10-15T00:00:00+0000",
+        "date": "2024-10-15",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -303,7 +303,7 @@ export const data = [
         "last": 231.13,
         "close": 227.55,
         "volume": 472754.0,
-        "date": "2024-10-14T19:00:00+0000",
+        "date": "2024-10-14",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -314,7 +314,7 @@ export const data = [
         "last": 230.13,
         "close": 227.55,
         "volume": 425717.0,
-        "date": "2024-10-14T18:00:00+0000",
+        "date": "2024-10-14",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -325,7 +325,7 @@ export const data = [
         "last": 230.38,
         "close": 227.55,
         "volume": 393948.0,
-        "date": "2024-10-14T17:00:00+0000",
+        "date": "2024-10-14",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -336,7 +336,7 @@ export const data = [
         "last": 230.305,
         "close": 227.55,
         "volume": 350802.0,
-        "date": "2024-10-14T16:00:00+0000",
+        "date": "2024-10-14",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -347,7 +347,7 @@ export const data = [
         "last": 229.49,
         "close": 227.55,
         "volume": 277627.0,
-        "date": "2024-10-14T15:00:00+0000",
+        "date": "2024-10-14",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -358,7 +358,7 @@ export const data = [
         "last": null,
         "close": null,
         "volume": 2876.0,
-        "date": "2024-10-14T14:00:00+0000",
+        "date": "2024-10-14",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -369,7 +369,7 @@ export const data = [
         "last": 227.55,
         "close": 229.04,
         "volume": 31759188.0,
-        "date": "2024-10-12T00:00:00+0000",
+        "date": "2024-10-12",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -380,7 +380,7 @@ export const data = [
         "last": 228.6,
         "close": 229.04,
         "volume": 388760.0,
-        "date": "2024-10-11T19:00:00+0000",
+        "date": "2024-10-11",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -391,7 +391,7 @@ export const data = [
         "last": 227.89,
         "close": 229.04,
         "volume": 324383.0,
-        "date": "2024-10-11T18:00:00+0000",
+        "date": "2024-10-11",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -402,7 +402,7 @@ export const data = [
         "last": 227.9,
         "close": 229.04,
         "volume": 289434.0,
-        "date": "2024-10-11T17:00:00+0000",
+        "date": "2024-10-11",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -413,7 +413,7 @@ export const data = [
         "last": 228.01,
         "close": 229.04,
         "volume": 251654.0,
-        "date": "2024-10-11T16:00:00+0000",
+        "date": "2024-10-11",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -424,7 +424,7 @@ export const data = [
         "last": 228.13,
         "close": 229.04,
         "volume": 186435.0,
-        "date": "2024-10-11T15:00:00+0000",
+        "date": "2024-10-11",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -435,7 +435,7 @@ export const data = [
         "last": 227.66,
         "close": 229.04,
         "volume": 80602.0,
-        "date": "2024-10-11T14:00:00+0000",
+        "date": "2024-10-11",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -446,7 +446,7 @@ export const data = [
         "last": 229.04,
         "close": 229.54,
         "volume": 28183544.0,
-        "date": "2024-10-11T00:00:00+0000",
+        "date": "2024-10-11",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -457,7 +457,7 @@ export const data = [
         "last": 228.505,
         "close": 229.54,
         "volume": 311678.0,
-        "date": "2024-10-10T19:00:00+0000",
+        "date": "2024-10-10",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -468,7 +468,7 @@ export const data = [
         "last": 228.61,
         "close": 229.54,
         "volume": 282466.0,
-        "date": "2024-10-10T18:00:00+0000",
+        "date": "2024-10-10",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -479,7 +479,7 @@ export const data = [
         "last": 228.55,
         "close": 229.54,
         "volume": 250175.0,
-        "date": "2024-10-10T17:00:00+0000",
+        "date": "2024-10-10",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -490,7 +490,7 @@ export const data = [
         "last": 228.79,
         "close": 229.54,
         "volume": 218628.0,
-        "date": "2024-10-10T16:00:00+0000",
+        "date": "2024-10-10",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -501,7 +501,7 @@ export const data = [
         "last": 227.84,
         "close": 229.54,
         "volume": 184418.0,
-        "date": "2024-10-10T15:00:00+0000",
+        "date": "2024-10-10",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -512,7 +512,7 @@ export const data = [
         "last": 228.4,
         "close": 229.54,
         "volume": 101462.0,
-        "date": "2024-10-10T14:00:00+0000",
+        "date": "2024-10-10",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -523,7 +523,7 @@ export const data = [
         "last": 229.16,
         "close": 225.77,
         "volume": 324818.0,
-        "date": "2024-10-09T19:00:00+0000",
+        "date": "2024-10-09",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -534,7 +534,7 @@ export const data = [
         "last": 228.46,
         "close": 225.77,
         "volume": 233241.0,
-        "date": "2024-10-09T18:00:00+0000",
+        "date": "2024-10-09",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -545,7 +545,7 @@ export const data = [
         "last": 228.61,
         "close": 225.77,
         "volume": 177094.0,
-        "date": "2024-10-09T17:00:00+0000",
+        "date": "2024-10-09",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -556,7 +556,7 @@ export const data = [
         "last": 228.31,
         "close": 225.77,
         "volume": 108470.0,
-        "date": "2024-10-09T16:00:00+0000",
+        "date": "2024-10-09",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -567,7 +567,7 @@ export const data = [
         "last": null,
         "close": null,
         "volume": null,
-        "date": "2024-10-09T15:00:00+0000",
+        "date": "2024-10-09",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -578,7 +578,7 @@ export const data = [
         "last": 226.29,
         "close": 225.77,
         "volume": 67599.0,
-        "date": "2024-10-09T14:00:00+0000",
+        "date": "2024-10-09",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -589,7 +589,7 @@ export const data = [
         "last": 225.77,
         "close": 221.69,
         "volume": 31855693.0,
-        "date": "2024-10-09T00:00:00+0000",
+        "date": "2024-10-09",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -600,7 +600,7 @@ export const data = [
         "last": 225.365,
         "close": 221.69,
         "volume": 504935.0,
-        "date": "2024-10-08T19:00:00+0000",
+        "date": "2024-10-08",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -611,7 +611,7 @@ export const data = [
         "last": 224.94,
         "close": 221.69,
         "volume": 446032.0,
-        "date": "2024-10-08T18:00:00+0000",
+        "date": "2024-10-08",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -622,7 +622,7 @@ export const data = [
         "last": 224.715,
         "close": 221.69,
         "volume": 418924.0,
-        "date": "2024-10-08T17:00:00+0000",
+        "date": "2024-10-08",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -633,7 +633,7 @@ export const data = [
         "last": null,
         "close": null,
         "volume": 529.0,
-        "date": "2024-10-08T16:00:00+0000",
+        "date": "2024-10-08",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -644,7 +644,7 @@ export const data = [
         "last": 225.18,
         "close": 221.69,
         "volume": 291424.0,
-        "date": "2024-10-08T15:00:00+0000",
+        "date": "2024-10-08",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -655,7 +655,7 @@ export const data = [
         "last": 225.38,
         "close": 221.69,
         "volume": 121525.0,
-        "date": "2024-10-08T14:00:00+0000",
+        "date": "2024-10-08",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -666,7 +666,7 @@ export const data = [
         "last": 221.69,
         "close": 226.8,
         "volume": 39505354.0,
-        "date": "2024-10-08T00:00:00+0000",
+        "date": "2024-10-08",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -677,7 +677,7 @@ export const data = [
         "last": 222.37,
         "close": 226.8,
         "volume": 564452.0,
-        "date": "2024-10-07T19:00:00+0000",
+        "date": "2024-10-07",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -688,7 +688,7 @@ export const data = [
         "last": 223.815,
         "close": 226.8,
         "volume": 445995.0,
-        "date": "2024-10-07T18:00:00+0000",
+        "date": "2024-10-07",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -699,7 +699,7 @@ export const data = [
         "last": 224.015,
         "close": 226.8,
         "volume": 377614.0,
-        "date": "2024-10-07T17:00:00+0000",
+        "date": "2024-10-07",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -710,7 +710,7 @@ export const data = [
         "last": 224.875,
         "close": 226.8,
         "volume": 302365.0,
-        "date": "2024-10-07T16:00:00+0000",
+        "date": "2024-10-07",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -721,7 +721,7 @@ export const data = [
         "last": 225.18,
         "close": 226.8,
         "volume": 250318.0,
-        "date": "2024-10-07T15:00:00+0000",
+        "date": "2024-10-07",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -732,7 +732,7 @@ export const data = [
         "last": 225.19,
         "close": 226.8,
         "volume": 117440.0,
-        "date": "2024-10-07T14:00:00+0000",
+        "date": "2024-10-07",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -743,7 +743,7 @@ export const data = [
         "last": 226.8,
         "close": 225.67,
         "volume": 37345098.0,
-        "date": "2024-10-05T00:00:00+0000",
+        "date": "2024-10-05",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -754,7 +754,7 @@ export const data = [
         "last": 225.475,
         "close": 225.67,
         "volume": 680481.0,
-        "date": "2024-10-04T19:00:00+0000",
+        "date": "2024-10-04",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -765,7 +765,7 @@ export const data = [
         "last": 224.9,
         "close": 225.67,
         "volume": 596145.0,
-        "date": "2024-10-04T18:00:00+0000",
+        "date": "2024-10-04",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -776,7 +776,7 @@ export const data = [
         "last": 225.21,
         "close": 225.67,
         "volume": 542607.0,
-        "date": "2024-10-04T17:00:00+0000",
+        "date": "2024-10-04",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -787,7 +787,7 @@ export const data = [
         "last": 225.46,
         "close": 225.67,
         "volume": 458431.0,
-        "date": "2024-10-04T16:00:00+0000",
+        "date": "2024-10-04",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -798,7 +798,7 @@ export const data = [
         "last": 225.21,
         "close": 225.67,
         "volume": 395913.0,
-        "date": "2024-10-04T15:00:00+0000",
+        "date": "2024-10-04",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -809,7 +809,7 @@ export const data = [
         "last": 225.155,
         "close": 225.67,
         "volume": 196089.0,
-        "date": "2024-10-04T14:00:00+0000",
+        "date": "2024-10-04",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -820,7 +820,7 @@ export const data = [
         "last": 223.53,
         "close": 226.78,
         "volume": 579366.0,
-        "date": "2024-10-03T19:00:00+0000",
+        "date": "2024-10-03",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -831,7 +831,7 @@ export const data = [
         "last": 224.31,
         "close": 226.78,
         "volume": 526627.0,
-        "date": "2024-10-03T18:00:00+0000",
+        "date": "2024-10-03",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -842,7 +842,7 @@ export const data = [
         "last": 223.49,
         "close": 226.78,
         "volume": 463939.0,
-        "date": "2024-10-03T17:00:00+0000",
+        "date": "2024-10-03",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -853,7 +853,7 @@ export const data = [
         "last": 225.18,
         "close": 226.78,
         "volume": 340419.0,
-        "date": "2024-10-03T16:00:00+0000",
+        "date": "2024-10-03",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -864,7 +864,7 @@ export const data = [
         "last": 224.34,
         "close": 226.78,
         "volume": 250750.0,
-        "date": "2024-10-03T15:00:00+0000",
+        "date": "2024-10-03",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -875,7 +875,7 @@ export const data = [
         "last": 226.55,
         "close": 226.78,
         "volume": 90047.0,
-        "date": "2024-10-03T14:00:00+0000",
+        "date": "2024-10-03",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -886,7 +886,7 @@ export const data = [
         "last": 226.78,
         "close": 226.21,
         "volume": 32880605.0,
-        "date": "2024-10-03T00:00:00+0000",
+        "date": "2024-10-03",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -897,7 +897,7 @@ export const data = [
         "last": 226.905,
         "close": 226.21,
         "volume": 659023.0,
-        "date": "2024-10-02T19:00:00+0000",
+        "date": "2024-10-02",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -908,7 +908,7 @@ export const data = [
         "last": 227.125,
         "close": 226.21,
         "volume": 614642.0,
-        "date": "2024-10-02T18:00:00+0000",
+        "date": "2024-10-02",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -919,7 +919,7 @@ export const data = [
         "last": 226.92,
         "close": 226.21,
         "volume": 565415.0,
-        "date": "2024-10-02T17:00:00+0000",
+        "date": "2024-10-02",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -930,7 +930,7 @@ export const data = [
         "last": 226.84,
         "close": 226.21,
         "volume": 460767.0,
-        "date": "2024-10-02T16:00:00+0000",
+        "date": "2024-10-02",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -941,7 +941,7 @@ export const data = [
         "last": 226.02,
         "close": 226.21,
         "volume": 323507.0,
-        "date": "2024-10-02T15:00:00+0000",
+        "date": "2024-10-02",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -952,7 +952,7 @@ export const data = [
         "last": 223.35,
         "close": 226.21,
         "volume": 131720.0,
-        "date": "2024-10-02T14:00:00+0000",
+        "date": "2024-10-02",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -963,7 +963,7 @@ export const data = [
         "last": 225.6,
         "close": 233.0,
         "volume": 1114447.0,
-        "date": "2024-10-01T19:00:00+0000",
+        "date": "2024-10-01",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -974,7 +974,7 @@ export const data = [
         "last": 225.33,
         "close": 233.0,
         "volume": 1006083.0,
-        "date": "2024-10-01T18:00:00+0000",
+        "date": "2024-10-01",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -985,7 +985,7 @@ export const data = [
         "last": 224.745,
         "close": 233.0,
         "volume": 874378.0,
-        "date": "2024-10-01T17:00:00+0000",
+        "date": "2024-10-01",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -996,7 +996,7 @@ export const data = [
         "last": 225.21,
         "close": 233.0,
         "volume": 713599.0,
-        "date": "2024-10-01T16:00:00+0000",
+        "date": "2024-10-01",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -1007,7 +1007,7 @@ export const data = [
         "last": 225.2,
         "close": 233.0,
         "volume": 515956.0,
-        "date": "2024-10-01T15:00:00+0000",
+        "date": "2024-10-01",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -1018,7 +1018,7 @@ export const data = [
         "last": 225.91,
         "close": 233.0,
         "volume": 301874.0,
-        "date": "2024-10-01T14:00:00+0000",
+        "date": "2024-10-01",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -1029,7 +1029,7 @@ export const data = [
         "last": 231.7,
         "close": 227.79,
         "volume": 568098.0,
-        "date": "2024-09-30T19:00:00+0000",
+        "date": "2024-09-30",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -1040,7 +1040,7 @@ export const data = [
         "last": 231.83,
         "close": 227.79,
         "volume": 509134.0,
-        "date": "2024-09-30T18:00:00+0000",
+        "date": "2024-09-30",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -1051,7 +1051,7 @@ export const data = [
         "last": 231.94,
         "close": 227.79,
         "volume": 465353.0,
-        "date": "2024-09-30T17:00:00+0000",
+        "date": "2024-09-30",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -1062,7 +1062,7 @@ export const data = [
         "last": 232.32,
         "close": 227.79,
         "volume": 385364.0,
-        "date": "2024-09-30T16:00:00+0000",
+        "date": "2024-09-30",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -1073,7 +1073,7 @@ export const data = [
         "last": 231.61,
         "close": 227.79,
         "volume": 277782.0,
-        "date": "2024-09-30T15:00:00+0000",
+        "date": "2024-09-30",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -1084,7 +1084,7 @@ export const data = [
         "last": 231.02,
         "close": 227.79,
         "volume": 140707.0,
-        "date": "2024-09-30T14:00:00+0000",
+        "date": "2024-09-30",
         "symbol": "AAPL",
         "exchange": "IEXG"
     },
@@ -1095,7 +1095,7 @@ export const data = [
         "last": 228.06,
         "close": 227.52,
         "volume": 518611.0,
-        "date": "2024-09-27T19:00:00+0000",
+        "date": "2024-09-27",
         "symbol": "AAPL",
         "exchange": "IEXG"
     }

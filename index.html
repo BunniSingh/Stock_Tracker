@@ -23,15 +23,35 @@
                 <button id="searchBtn" type="submit">Search</button>
             </form>
         </div>
-        <ul id="stockList"></ul>
         
-        <div id="stockDetails"></div>
-
+        <div class="stockDetailsContainer">
+            <h2>Stock Details</h2><br>
+            <div id="stockDetails">
+                <!-- dynamically change -->
+            </div>
+        </div>
+        
         <div class="graph-section">
             <h2>Stock Price Graph</h2>
             <canvas id="stockChart"></canvas>
         </div>
+        
+        <table>
+            <caption style="font-weight: bold; padding: 1rem; font-size: 20px;">Compaire</caption>
 
+            <thead>
+                <tr>
+                    <th>Stock Symbol</th>
+                    <th>Price</th>
+                    <th>Change</th>
+                    <th>Volume</th>
+                    <th>Last-Date</th>
+                </tr>
+            </thead>
+            <tbody id="stockTableBody">
+                <!-- Fetch stock data dynamically -->
+            </tbody>
+        </table>
     </main>
     
 
